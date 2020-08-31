@@ -16,3 +16,8 @@ There are five datasets used for the dashboard. They are:
 - NO_Emissions.csv
 - Extreme_temp.csv
 
+The codes to knit the dashboard is in the Dashboard.Rmd file while the codes for the plotting alone 
+is in the Rcode_only.R file. The packages used are: 
+- dplyr, tibble, countrycode, tidyr (For data wrangling)
+- ggplot2, ggthemes, plotly, viridis, RColorBrewer, ggsci (For visualisation)
+- flexdashboard (to form a dashboard)
