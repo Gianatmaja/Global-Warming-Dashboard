@@ -1,7 +1,7 @@
 # Global-Warming-Dashboard
 
 Quick links:
-[View dashboard on Rpubs](https://rpubs.com/Ga25/654326)
+[View dashboard on Rpubs](https://rpubs.com/Ga25/654326)  
 [View markdown and codes](https://github.com/Gianatmaja/Global-Warming-Dashboard/blob/master/Dashboard.Rmd)
 
 An informative dashboard on global warming, made using R's ggplot2, plotly, and flexdashboard.
