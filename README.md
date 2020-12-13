@@ -7,7 +7,7 @@
 ### Description
 An informative dashboard on global warming, made using R's ggplot2, plotly, and flexdashboard.
   
-This dashboard is created to show the trends in various aspects of global warming, such as the risequick
+This dashboard is created to show the trends in various aspects of global warming, such as the rise
 in global land temperature, sea level, emissions of the greenhouse gases and the reported extreme
 weather events.
 
