@@ -11,8 +11,10 @@ This dashboard is created to show the trends in various aspects of global warmin
 in global land temperature, sea level, emissions of the greenhouse gases and the reported extreme
 weather events.
 
-### Note
-Data files:  
+![Dashboard](https://github.com/Gianatmaja/Global-Warming-Dashboard/blob/master/Images/Screenshot%202022-10-04%20at%203.24.31%20PM.png)
+
+### Datasets & Source of Data
+Datasets:  
 - [AverageGlobalTemp.txt](https://github.com/Gianatmaja/Global-Warming-Dashboard/blob/master/AverageGlobalTemp.txt)
 - [CO2_Emissions.csv](https://github.com/Gianatmaja/Global-Warming-Dashboard/blob/master/CO2_Emissions.csv)
 - [Sea_level_GMSL.csv](https://github.com/Gianatmaja/Global-Warming-Dashboard/blob/master/Sea_level_GMSL.csv)
@@ -20,13 +22,13 @@ Data files:
 - [NO_Emissions.csv](https://github.com/Gianatmaja/Global-Warming-Dashboard/blob/master/NO_Emissions.csv)
 - [Extreme_temp.csv](https://github.com/Gianatmaja/Global-Warming-Dashboard/blob/master/Extreme_temp.csv)
 
-Sources:  
+Source of Data:  
 - [Berkeley Earth](http://berkeleyearth.org/data/)
 - [Gapminder](https://www.gapminder.org/data/)
 - [Datahub](https://datahub.io/)
 - [World Bank Open Data](https://data.worldbank.org/)
 
-R packages:  
-- dplyr, tibble, countrycode, tidyr (For data wrangling)
-- ggplot2, ggthemes, plotly, viridis, RColorBrewer, ggsci (For visualisation)
-- flexdashboard (to create a dashboard)
+### R Packages Used: 
+- Data Wrangling: dplyr, tibble, countrycode, tidyr
+- Data Visualisation: ggplot2, ggthemes, plotly, viridis, RColorBrewer, ggsci
+- Dashboard: flexdashboard
