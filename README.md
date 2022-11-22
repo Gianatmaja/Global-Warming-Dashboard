@@ -1,4 +1,4 @@
-# Global-Warming-Dashboard
+# Global Warming Dashboard
 
 ### Quic Links  
 - [View dashboard on Rpubs](https://rpubs.com/Ga25/654326)  
