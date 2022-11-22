@@ -31,4 +31,4 @@ Source of Data:
 ### R Packages Used: 
 - Data Wrangling: dplyr, tibble, countrycode, tidyr
 - Data Visualisation: ggplot2, ggthemes, plotly, viridis, RColorBrewer, ggsci
-- Dashboard: flexdashboard
+- Dashboard: flexdashboard 
