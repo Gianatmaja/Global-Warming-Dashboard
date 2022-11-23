@@ -11,7 +11,7 @@ This dashboard is created to show the trends in various aspects of global warmin
 in global land temperature, sea level, emissions of the greenhouse gases and the reported extreme
 weather events.
 
-![Dashboard](https://github.com/Gianatmaja/Global-Warming-Dashboard/blob/master/Images/Screenshot%202022-10-04%20at%203.24.31%20PM.png)
+![Dashboard](https://github.com/Gianatmaja/Global-Warming-Dashboard/blob/master/Images/Dashboard.png)
 
 ### Datasets & Source of Data
 Datasets:  
